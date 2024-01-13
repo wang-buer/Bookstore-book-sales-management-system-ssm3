@@ -1,4 +1,9 @@
-# 书店图书销售管理系统SSM
+# 书店图书销售管理系统SSM3
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：**书店**，查看导入教程视频、sql脚本和源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -29,35 +34,35 @@
 
 ### 4.1 管理员登录
 
-![管理员登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220510210231.jpg)
+![管理员登录](https://www.codeshop.fun/Typora-Images/20220510210231.jpg)
 
 管理员通过此界面登录至后台
 
 ### 4.2 用户注册
 
-![注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220510210211.jpg)
+![注册](https://www.codeshop.fun/Typora-Images/20220510210211.jpg)
 
 用户通过此界面注册信息，前端会自动校验注册信息是否合格，例如身份证号是否为18位等
 
 ### 4.3 用户模块
 
-![主页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220510210206.jpg)
+![主页](https://www.codeshop.fun/Typora-Images/20220510210206.jpg)
 
-![图书详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220510205553.jpg)
+![图书详情](https://www.codeshop.fun/Typora-Images/20220510205553.jpg)
 
-![购物车](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220510210221.jpg)
+![购物车](https://www.codeshop.fun/Typora-Images/20220510210221.jpg)
 
 用户在首页可以通过模糊查询图书信息，可以将书籍放入购物车中，也可以直接购买、结算书籍
 
 ### 4.4 管理员模块
 
-![管理员管理书籍](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220510205657.jpg)
+![管理员管理书籍](https://www.codeshop.fun/Typora-Images/20220510205657.jpg)
 
-![管理员管理分类](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220510205700.jpg)
+![管理员管理分类](https://www.codeshop.fun/Typora-Images/20220510205700.jpg)
 
-![管理员管理用户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220510205704.jpg)
+![管理员管理用户](https://www.codeshop.fun/Typora-Images/20220510205704.jpg)
 
-![管理员管理订单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/20220510205710.jpg)  
+![管理员管理订单](https://www.codeshop.fun/Typora-Images/20220510205710.jpg)  
 
 书籍管理：管理员可以对书籍多条件模糊查询（书名、作者、出版社等），还可以增加、删除、修改书籍信息
 
@@ -66,12 +71,4 @@
 用户管理：管理员可以根据类型用户查询类型信息，还可以增加、删除、修改用户信息
 
 订单管理：管理员可以查看订单详情、审核通过订单、通过订单号和订单人多条件查询订单信息
-
-## 5、获取方式
-
-扫描下方，回复 关键词：“**书店3** ” ，以获取完整项目代码。
-
-![image-20220509000010316](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
-
 
